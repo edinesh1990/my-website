@@ -7,3 +7,5 @@ Updating on example branch
 Now updating on update-readme branch
 
 This updates are done locally on update-readme branch
+
+Updates made on master on github before rebase
