@@ -1,3 +1,0 @@
-#Demo file
-
-This is a new demo file created directly on master branch
