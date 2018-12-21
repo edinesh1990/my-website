@@ -17,3 +17,7 @@ remote side. This was editted locally.
 
 This purpose to provide examples on how to use
 git and github together
+
+## Getting started
+
+To get started with this project, just clone this repository
