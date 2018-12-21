@@ -12,3 +12,8 @@ This updates are done locally on update-readme branch
 
 This will be a change that conflicts with whatever is on the
 remote side. This was editted locally.
+
+##Purpose
+
+This purpose to provide examples on how to use
+git and github together
